@@ -1,0 +1,5 @@
+{
+  "name": "Local OCR Extractor",
+  "description": "A secure, privacy-focused text extraction tool that runs entirely on your server. Extract text from Images, PDFs, and Word documents without external APIs.",
+  "requestFramePermissions": []
+}
